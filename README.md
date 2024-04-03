@@ -1,7 +1,7 @@
 ### Hi there 👋
-I am Aanal Shah
-With a Master's in Big Data Analytics, I specialize in Natural Language Processing and Machine Learning. Proficient in statistical analysis, data mining, and predictive modelling algorithms with a focus on implementing model validation techniques. I hold published paper aligning with my interests. I drive actionable outcomes with a keen eye for sustainability and adaptability.
 
+<br>
+#### I'm Aanal Shah
 <!--
 **Aanalshah15/Aanalshah15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
