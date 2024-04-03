@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-<br>
 ### I'm Aanal Shah
+
 <!--
 **Aanalshah15/Aanalshah15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
