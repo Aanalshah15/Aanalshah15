@@ -2,7 +2,7 @@
 
 ### I'm Aanal Shah
 
-<a href=”https://www.linkedin.com/in/aanalshah15/"><img align=”left” src=”https://raw.githubusercontent.com/deepajarout/deepajarout/main/5296514_bird_tweet_twitter_twitter logo_icon.png” alt=”deepa Jarout| Twitter” width=”35px”/></a>
+<a href=”https://www.linkedin.com/in/aanalshah15/"><img align=”left” src=”https://images.rawpixel.com/image_png_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvdjk4Mi1kNS0xMF8xLnBuZw.png” alt=”Aanal Shah| LinkedIn” width=”35px”/></a>
 <!--
 **Aanalshah15/Aanalshah15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
