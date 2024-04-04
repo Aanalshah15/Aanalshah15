@@ -1,8 +1,12 @@
-### Hi there 👋
+### Hi, I'm Aanal Shah👋
 
-### I'm Aanal Shah
+With a Master's in Big Data Analytics, I specialize in Natural Language Processing and Machine Learning. Proficient in statistical analysis, data mining, and predictive modelling algorithms with a focus on implementing model validation techniques. I have published a paper aligning with my interests. I drive actionable outcomes with a keen eye for sustainability and adaptability.
 
-<a href=”https://www.linkedin.com/in/aanalshah15/"><img align=”left” src=”https://images.rawpixel.com/image_png_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvdjk4Mi1kNS0xMF8xLnBuZw.png” alt=”Aanal Shah| LinkedIn” width=”35px”/></a>
+
+📧 Mail: <a>aanalshah1507@gmail.com</a> <br>
+🔗 LinkedIn: <a>https://www.linkedin.com/in/aanalshah15/</a> <br>
+💡 Medium: <a>https://medium.com/@aanalshah2001</a>
+
 
 
 <!--
