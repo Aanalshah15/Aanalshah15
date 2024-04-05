@@ -7,6 +7,7 @@ With a Master's in Big Data Analytics, I specialize in Natural Language Processi
 🔗 LinkedIn: <a>https://www.linkedin.com/in/aanalshah15/</a> <br>
 💡 Medium: <a>https://medium.com/@aanalshah2001</a>
 
+<a src="https://www.instagram.com/"><img="https://github.com/Aanalshah15/Aanalshah15/main/instagram.png" alt=”icon | LinkedIn” width=”21px”/> </a>
 
 
 <!--
